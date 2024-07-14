@@ -45,6 +45,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="LICENSE" />
     <None Include="Light.vstheme">
       <SubType>Designer</SubType>
     </None>

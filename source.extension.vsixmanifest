@@ -4,7 +4,6 @@
         <Identity Id="ithline.themes.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="ithline" />
         <DisplayName>ithline.themes</DisplayName>
         <Description xml:space="preserve">Ithliné Visual Studio themes.</Description>
-        <License>LICENSE</License>
         <Tags>theme, light</Tags>
     </Metadata>
     <Installation>
